@@ -1,0 +1,6 @@
+public class Clase1{
+
+  string dato = "abc";
+
+
+}
